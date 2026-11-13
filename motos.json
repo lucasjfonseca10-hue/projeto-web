@@ -1,0 +1,20 @@
+[
+    {
+        "marca": "yamaha",
+        "modelo": "fazer",
+        "cor": "vermelha",
+        "ano": "2023",
+        "quilometragem": "10400",
+        "datacompra": "2026-10-30",
+        "placa": "SHI6A96"
+    },
+    {
+        "marca": "yamaha",
+        "modelo": "fazer",
+        "cor": "azul",
+        "ano": "",
+        "quilometragem": "20000",
+        "datacompra": "2026-11-21",
+        "placa": "PHP098HT"
+    }
+]
