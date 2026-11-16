@@ -222,12 +222,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <input type="hidden" name="editar_indice"
                 value="<?php echo $indiceEditar; ?>">
         <?php } ?>
-            
-        <?php if ($indiceEditar !== null) { ?>
-            <input tupe="hidden" name="editar_indice"
-                value="<?php echo $indiceEditar; ?>">
-            
-        <?php } ?>               
+                          
             <label for="marca">Marca: </label>
             <input type="text" id="marca" name="marca">
 
